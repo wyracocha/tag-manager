@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@wyracocha/wy-env": "^1.0.1",
+    "fastify": "^1.0.0-rc.3",
+    "joi": "^13.1.2",
+    "joi-objectid": "^2.0.0",
+    "mongoose": "^5.0.7",
+    "redis": "^2.8.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
